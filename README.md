@@ -181,3 +181,16 @@ GROUP BY
 ORDER BY 
     Event_Count DESC;
 ```
+
+```sql
+-- Query 3.2: Event categories generating the highest profit (highest to lowest)
+SELECT 
+    Category, 
+    SUM([Event Total Spend]) AS Total_Profit
+FROM 
+    dbo.event_data
+GROUP BY 
+    Category
+ORDER BY 
+    Total_Profit DESC;
+```
