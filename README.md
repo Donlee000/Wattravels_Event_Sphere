@@ -104,3 +104,54 @@ ORDER BY
     Total_Profit DESC;
 ```
 
+```sql
+-- Query 1.4: Country profit from completed events (highest to lowest)
+SELECT 
+    Country,
+    SUM([Event Total Spend]) AS Total_Profit
+FROM 
+    dbo.event_data
+WHERE 
+    [Event status] = 'Completed'
+GROUP BY 
+    Country
+ORDER BY 
+    Total_Profit DESC;
+```
+
+```sql
+-- Query 2.1: Continents with the highest PHQ attendance (highest to lowest)
+SELECT 
+    CASE 
+        WHEN Country IN ('France', 'Germany', 'Spain', 'Poland', 'Sweden') THEN 'Europe'
+        WHEN Country IN ('USA', 'Canada', 'Mexico') THEN 'North America'
+        WHEN Country IN ('China', 'Japan', 'India') THEN 'Asia'
+        WHEN Country IN ('South Africa', 'Nigeria', 'Egypt') THEN 'Africa'
+        WHEN Country IN ('Australia', 'New Zealand') THEN 'Oceania'
+        WHEN Country IN ('Brazil', 'Argentina', 'Chile') THEN 'South America'
+    END AS Continent,
+    SUM([PHQ Attendance]) AS Total_PHQ_Attendance
+FROM 
+    dbo.event_data
+WHERE 
+    [PHQ Attendance] IS NOT NULL -- Ensures only rows with attendance data
+    AND Country IN (
+        'France', 'Germany', 'Spain', 'Poland', 'Sweden',
+        'USA', 'Canada', 'Mexico',
+        'China', 'Japan', 'India',
+        'South Africa', 'Nigeria', 'Egypt',
+        'Australia', 'New Zealand',
+        'Brazil', 'Argentina', 'Chile'
+    ) -- Only include valid countries mapped to continents
+GROUP BY 
+    CASE 
+        WHEN Country IN ('France', 'Germany', 'Spain', 'Poland', 'Sweden') THEN 'Europe'
+        WHEN Country IN ('USA', 'Canada', 'Mexico') THEN 'North America'
+        WHEN Country IN ('China', 'Japan', 'India') THEN 'Asia'
+        WHEN Country IN ('South Africa', 'Nigeria', 'Egypt') THEN 'Africa'
+        WHEN Country IN ('Australia', 'New Zealand') THEN 'Oceania'
+        WHEN Country IN ('Brazil', 'Argentina', 'Chile') THEN 'South America'
+    END
+ORDER BY 
+    Total_PHQ_Attendance DESC;
+```
