@@ -194,3 +194,12 @@ GROUP BY
 ORDER BY 
     Total_Profit DESC;
 ```
+#### Results/Findings 
+
+The analysis results are summarized as follows:
+
+1. Continental Profit Distribution:
+
+Europe generated the highest total profit from all events, as shown in the "Continent Profit" chart, followed by North America and Oceania.
+Africa and South America contributed the least to event profits.
+
