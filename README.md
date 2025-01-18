@@ -155,3 +155,29 @@ GROUP BY
 ORDER BY 
     Total_PHQ_Attendance DESC;
 ```
+
+```sql
+-- Query 2.2: Countries with the highest PHQ attendance (highest to lowest)
+SELECT 
+    Country, 
+    SUM([PHQ Attendance]) AS total_attendance
+FROM 
+    dbo.event_data
+GROUP BY 
+    Country
+ORDER BY 
+    total_attendance DESC;
+```
+
+```sql
+-- Query 3.1: Most frequently hosted event categories (highest to lowest)
+SELECT 
+    Category, 
+    COUNT(*) AS Event_Count
+FROM 
+    dbo.event_data
+GROUP BY 
+    Category
+ORDER BY 
+    Event_Count DESC;
+```
