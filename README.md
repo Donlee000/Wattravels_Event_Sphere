@@ -225,3 +225,18 @@ North America and Asia followed in attendance metrics.
 6. Global Distribution:
 
 The geographic map clearly shows higher profitability concentrated in Europe and North America, emphasizing their dominance in event hosting and participation.
+
+-- Recommendations
+Target Emerging Markets:
+
+Invest in event marketing and infrastructure development in underperforming regions like Africa and South America to diversify revenue streams.
+Focus on growing attendance in countries like Nigeria, Brazil, and Argentina to unlock untapped potential.
+
+Expand Profitable Categories:
+
+Increase the focus on Technology and Music events as they show the highest profitability.
+Explore niche opportunities in Art and Sports to foster growth in these less dominant categories.
+
+Boost Event Completion Rates:
+
+Analyze why certain events fail to be completed and implement measures (e.g., better logistics, sponsorships) to ensure higher completion rates for greater profit realization.
