@@ -198,46 +198,46 @@ ORDER BY
 
 The analysis results are summarized as follows:
 
-1. Continental Profit Distribution
+- Continental Profit Distribution
 
 Europe generated the highest total profit from all events, as shown in the "Continent Profit" chart, followed by North America and Oceania.
 Africa and South America contributed the least to event profits.
 
-2. Completed Events Profit
+- Completed Events Profit
 
 When focusing only on completed events, Europe and North America still led in profit generation, affirming their importance in the overall event market.
 
-3. Country-Level Insights
+- Country-Level Insights
 
 Specific countries like the USA, Germany, and China stood out as top contributors to event profits, highlighting their robust event-hosting economies.
 Countries with lower event attendance or total spend (e.g., African and South American nations) represent areas with growth potential.
 
-4. Profitable Event Categories
+- Profitable Event Categories
 
 Technology and Music events emerged as the top categories in terms of revenue generation.
 Categories like Art and Sports have significant profitability but lag behind Technology and Music.
 
-5. Attendance Trends:
+- Attendance Trends:
 
 Europe saw the highest PHQ attendance, affirming its popularity as a destination for large-scale events.
 North America and Asia followed in attendance metrics.
 
-6. Global Distribution:
+- Global Distribution:
 
 The geographic map clearly shows higher profitability concentrated in Europe and North America, emphasizing their dominance in event hosting and participation.
 
 ####  Recommendations
 
-Target Emerging Markets:
+- Target Emerging Markets:
 
 Invest in event marketing and infrastructure development in underperforming regions like Africa and South America to diversify revenue streams.
 Focus on growing attendance in countries like Nigeria, Brazil, and Argentina to unlock untapped potential.
 
-Expand Profitable Categories:
+- Expand Profitable Categories:
 
 Increase the focus on Technology and Music events as they show the highest profitability.
 Explore niche opportunities in Art and Sports to foster growth in these less dominant categories.
 
-Boost Event Completion Rates:
+- Boost Event Completion Rates:
 
 Analyze why certain events fail to be completed and implement measures (e.g., better logistics, sponsorships) to ensure higher completion rates for greater profit realization.
