@@ -198,8 +198,30 @@ ORDER BY
 
 The analysis results are summarized as follows:
 
-1. Continental Profit Distribution:
+1. Continental Profit Distribution
 
 Europe generated the highest total profit from all events, as shown in the "Continent Profit" chart, followed by North America and Oceania.
 Africa and South America contributed the least to event profits.
 
+2. Completed Events Profit
+
+When focusing only on completed events, Europe and North America still led in profit generation, affirming their importance in the overall event market.
+
+3. Country-Level Insights
+
+Specific countries like the USA, Germany, and China stood out as top contributors to event profits, highlighting their robust event-hosting economies.
+Countries with lower event attendance or total spend (e.g., African and South American nations) represent areas with growth potential.
+
+4. Profitable Event Categories
+
+Technology and Music events emerged as the top categories in terms of revenue generation.
+Categories like Art and Sports have significant profitability but lag behind Technology and Music.
+
+5. Attendance Trends:
+
+Europe saw the highest PHQ attendance, affirming its popularity as a destination for large-scale events.
+North America and Asia followed in attendance metrics.
+
+6. Global Distribution:
+
+The geographic map clearly shows higher profitability concentrated in Europe and North America, emphasizing their dominance in event hosting and participation.
