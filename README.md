@@ -195,6 +195,7 @@ ORDER BY
     Total_Profit DESC;
 ```
 #### Results/Findings 
+<img width="1024" height="1536" alt="Event_Sphere_Wattravels_ultra" src="https://github.com/user-attachments/assets/74ec6bd6-3caf-4f6c-b97e-512930455171" />
 
 The analysis results are summarized as follows:
 
