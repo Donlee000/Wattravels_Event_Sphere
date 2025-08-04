@@ -4,7 +4,7 @@
 
 Data analytics project designed to deliver deep insights into global events across continents and countries. It leverages event data to uncover trends, optimize strategies, and drive decision-making for event planning and management.
 
-![Wattravel View](https://github.com/user-attachments/assets/46df4b2e-5dd5-4834-b18d-17705606e917)
+<img width="1024" height="1536" alt="Wattravels_Map_Data_Analysis-Work" src="https://github.com/user-attachments/assets/f2a7cfc6-e6a6-4b7b-b3cc-268bf1f2555f" />
 
 #### Project Question
 
@@ -225,6 +225,8 @@ North America and Asia followed in attendance metrics.
 - Global Distribution:
 
 The geographic map clearly shows higher profitability concentrated in Europe and North America, emphasizing their dominance in event hosting and participation.
+
+
 
 ####  Recommendations
 
